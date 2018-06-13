@@ -21,7 +21,10 @@ If you work with conda, you can create a dedicated environment. Make sure you ha
 
 Run this python script in a dedicated folder. Data will be fetched in the *data* directory and some statistics will be reported in the *data_info* directory.
 
+
 ```python
+# fetch_data.py
+
 import impact_query_expert_finding.main.fetch_data
 import impact_query_expert_finding.data.io
 import os
