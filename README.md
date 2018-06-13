@@ -39,3 +39,30 @@ parameters = {
 }
 impact_query_expert_finding.main.fetch_data.run(parameters)
 ```
+
+
+**Compute documents representations**:
+
+Run this script to precompute the documents representations (TF, TF-IDF and LSA). You can specify several *input_dir* depending on the dataset (V1 or V2) you want to work with and if you want to use the entire dataset (dataset_cleaned) or a small version (dataset_association). 
+
+
+```python
+# documents_representations.py
+
+import impact_query_expert_finding.main.language_models
+import impact_query_expert_finding.data.config
+import os
+
+current_folder = os.path.dirname(os.path.abspath(__file__))
+# set "V1", "V2" to select the dataset you want to work with
+# set "dataset_cleaned" to use the entire dataset or "dataset_association" to use a reduced version
+input_dir = os.path.join(current_folder,'output/','data/', "V2", "dataset_cleaned") 
+output_dir = os.path.join(input_dir,'documents_representations')
+
+parameters = {
+    'output_dir': output_dir,
+    'input_dir': input_dir
+}
+impact_query_expert_finding.main.language_models.run(parameters)
+
+```
