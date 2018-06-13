@@ -19,7 +19,7 @@ If you work with conda, you can create a dedicated environment. Make sure you ha
 
 **Download the datasets**:
 
-.. code-block:: python
+'''
     import impact_query_expert_finding.main.fetch_data
     import impact_query_expert_finding.data.io
     import os
@@ -33,4 +33,4 @@ If you work with conda, you can create a dedicated environment. Make sure you ha
         'dump_dir': dump_dir       # dump directory where statistics will be produced
     }
     impact_query_expert_finding.main.fetch_data.run(parameters)
-
+'''
