@@ -1,0 +1,18 @@
+data_citation_network_url_v1: "http://aminer.org/lab-datasets/citation/citation-network2.rar"
+data_citation_network_rar_file_name_v1: "citation-network2.rar"
+data_citation_network_text_file_name_v1: "citation-network2.txt"
+
+data_citation_network_url_v2: "http://aminer.org/lab-datasets/citation/citation-network1.zip"
+data_citation_network_rar_file_name_v2: "citation-network1.zip"
+data_citation_network_text_file_name_v2: "outputacm.txt"
+
+data_experts_folder: "resources/aminer/experts"
+
+documents_mask_file: "documents_mask.json"
+experts_documents_mask_file: "experts_documents_mask.json"
+candidates_mask_file: "candidates_mask.json"
+experts_mask_file: "experts_mask.json"
+
+texts_filename: "texts.json"
+stamp_filename: "stamp.json"
+length_filter_filename: "length_filter.json"

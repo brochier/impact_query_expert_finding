@@ -1,0 +1,43 @@
+Adwait Ratnaparkhi
+Aravind K. Joshi
+Barbara J. Grosz
+Bonnie Dorr
+Bonnie Webber
+Branimir Boguraev
+Chris Mellish
+Christopher D. Manning
+Claire Cardie
+Dan I. Moldovan
+David Yarowsky
+Dekai Wu
+Diane J. Litman
+Eduard H. Hovy
+Ellen Riloff
+Eric Brill
+Eugene Charniak
+Janyce Wiebe
+Johanna D. Moore
+Kevin Knight
+Michael Collins
+Raymond J. Mooney
+Rebecca J. Passonneau
+Robert C. Moore
+Robert Dale
+Sergei Nirenburg
+Tomek Strzalkowski
+Walter Daelemans
+Yorick Wilks
+Dan Roth
+Dragomir R. Radev
+Philippe Blache
+Kenneth Ward Church
+Ming Zhou
+Philip Resnik
+James Pustejovsky
+Tomek Strzalkowski
+Mehryar Mohri
+Martha Stone Palmer
+Johanna D. Moore
+Inderjeet Mani
+Dale Schuurmans
+Hwee Tou Ng

@@ -1,0 +1,122 @@
+Edward T. Adelson
+Felix Agakov
+Moray Allan
+Shun-ichi Amari
+Razvan Andonie
+Christophe Andrieu
+Martin Anthony
+Hagai Attias
+Francis Bach
+Dana H. Ballard
+Marian Stewart Bartlett
+Matthew J. Beal
+Sue Becker
+Samy Bengio
+Ross Beveridge
+Chris Bishop
+Craig Boutilier
+Carlos D. Brody
+Andrew Brown
+A. Bulsari
+William H. Calvin
+Rich Caruana
+Vincent Cheung
+Selina Chu
+Ton Coolen
+Garrison W. Cottrell
+Markus A. Dahlem
+Peter Dayan 
+Nando de Freitas
+Hugo de Garis
+Saverio De vito
+Philippe De Wilde
+Thomas G. Dietterich
+William T. Freeman
+Brendan J. Frey
+Nir Friedman
+Jochen Frohlich
+Hajime Fujita
+Christophe Garcia
+Zoubin Ghahramani
+Lars Kai Hansen
+Ralph Herbrich
+Tom Heskes
+Geoffrey E. Hinton
+Vasant Honavar
+Nicholas Hughes
+Tommi S. Jaakkola
+Finn Verner Jensen
+Michael I. Jordan
+Prashant Joshi
+Sham Kakade
+Szabolcs Kali
+Michael Kearns
+Daniel Keysers
+Daphne Koller
+John D. Lafferty
+Neil Lawrence
+Steve Lawrence
+Yann LeCun
+Todd Leen
+Wee Kheng Leow
+Uri N. Lerner
+Zhaoping Li
+Wolfgang Maass
+David MacKay
+Andrew McCallum
+Marina Meila
+Thomas P. Minka
+Quaid Morris
+Raul C. Muresan
+Kevin P. Murphy
+Alan Murray
+Roderick Murray-Smith
+Radford Neal
+Erkki Oja
+Ivan Olier
+Bruno Olshausen
+Manfred Opper
+Alberto Paccanaro
+Barak Pearlmutter
+Rajesh P. N. Rao
+Carl Edward Rasmussen
+Michael Revow
+Stephen Roberts
+Stefano Rovetta
+Sam T. Roweis
+Stuart Russell
+Leszek Rutkowski
+David Saad
+Maneesh Sahani
+Brian Sallans
+Lawrence K. Saul
+Eric Saund
+Andrew I. Schein
+Vitaly Schetinin
+Terry Sejnowski
+Sebastian Seung
+Alexander Shkolnik
+Dale Shuurmans
+Patrice Simard
+Alex J. Smola
+Amos Storkey
+Richard S. Sutton
+Peter Sykacek
+Yee Whye Teh
+Mike Tipping
+Naftali Tishby
+Massimiliano Versace
+Martin Wainwright
+Guy Wallis
+Yair Weiss
+Max Welling
+Wim Wiegerinck
+Christopher K. I. Williams
+Ole Winther
+Laurenz Wiskott
+Yingnian Wu
+Donald C. Wunsch II
+Eric Xing
+Jonathan S. Yedidia
+Richard Zemel
+Zhi-Hua Zhou

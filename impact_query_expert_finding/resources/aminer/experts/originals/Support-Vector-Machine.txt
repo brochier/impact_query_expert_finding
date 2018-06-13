@@ -1,0 +1,111 @@
+Cecilio Angulo
+Fatiha Anouar
+David Barber
+Peter Bartlett
+Souheil Ben-Yacoub
+Samy Bengio
+Kristin Bennett
+Hilan Bensusan
+Volker Blanz
+Julian Bolivar
+Eugene Borovikov
+Leon Bottou
+Olivier Bousquet
+Paul Bradley
+Robert Burbidge
+Christopher J. C. Burges
+Chris Burges
+Colin Campbell
+Doina Caragea
+Nello Cristianini
+Olivier Chapelle
+David Weng-Bin Chen
+Huimin Chen
+Alexey Chervonenkis
+Hong Gunn Chew
+K. K. Chin
+Ronan Collobert
+Nello Cristianini
+Dennis DeCoste
+Harris Drucker
+Nigel Duffy
+Dave Elliman
+Theodoros Evgeniou
+Robert M. Freund
+Terrence Furey
+Alex Gammerman
+Aravind Ganapathiraju
+Junbin Gao
+Xianping Ge
+Federico Girosi
+Luis Gonz¨¢lez
+Thore Graepel
+John Greene
+Steve R. Gunn
+Isabelle Guyon
+R.D. Hennings
+Ralf Herbrich
+Thorsten Joachims
+Elsa Jordaan
+Vojislav Kecman
+Sathiya Keerthi
+Ulrich Kressel
+Shailesh Kumar
+James Tin-Yau Kwok
+Pavel Laskov
+Edda Leopold
+Chih-Jen Lin
+Yi?Lin
+Olvi L. Mangasarian
+Junshui Ma
+Hugh Mallinson
+Davide Mattera
+Sebastian Mika
+Klaus-Robert M¨¹ller
+Filip Mulier
+Radford Neal
+Nuria Oliver
+Edgar E. Osuna
+John Platt
+Tomaso Poggio
+Massimiliano Pontil
+Francesco Palmieri
+Gunnar R?tsch
+Danny Roobaert
+Roman Rosipal
+Alberto Ruiz
+Matthias Rychetsky
+David Saad
+Craig Saunders
+Robert Schapire
+Dale Schuurmans
+Ludwig Schwardt
+John Shawe-Taylor
+Yoram Singer
+Fabrizio Smeraldi
+Alexander J. Smola
+Peter Sollich
+Mark O. Stitson
+Johan Suykens
+Naoki Takata
+Ying Tan
+Mike Tipping
+Matthew Trotter
+Koji Tsuda
+Konstantinos Veropoulos
+Volodya Vovk
+Vladimir Vapnik
+Alfred Vella
+Chris Watkins
+Grace Wahba
+Slawo Wesolkowski
+Jason Weston
+Chris Williams
+Bob Williamson
+Patrick Wong
+Donghui Wu
+Ying Wu
+Ming-Hsuan Yang
+Mohammed Yeasin
+Wen-Sheng Zhang
+Xuegong Zhang

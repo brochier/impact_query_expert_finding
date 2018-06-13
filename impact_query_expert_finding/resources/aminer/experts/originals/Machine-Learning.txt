@@ -1,0 +1,35 @@
+Alex J. Smola
+Andrew W. Moore
+Avrim Blum
+Bernhard Scholkopf
+Blaz Zupan
+Charles X. Ling
+Claude Sammut
+Dayne Freitag
+Donald Michie
+Floriana Esposito
+Foster J. Provost
+Igor Kononenko
+Ivan Bratko
+Jaime G. Carbonell
+Johannes Furnkranz
+John Shawe-Taylor
+Lorenza Saitta
+Manfred Warmuth
+Michael I. Jordan
+Pat Langley
+Paul Utgoff
+Peter A. Flach
+Peter Stone
+Prasad Tadepalli
+Raymond J. Mooney
+Rich Caruana
+Robert E. Schapire
+Ryszard S. Michalski
+Saso Dzeroski
+Satinder Singh
+Sridhar Mahadevan
+Thomas G. Dietterich
+Tobias Scheffer
+Tom M. Mitchell
+Vladimir Vapnik

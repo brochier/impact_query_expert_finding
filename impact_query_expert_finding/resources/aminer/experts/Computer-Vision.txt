@@ -1,0 +1,215 @@
+Lynn Abbott
+Samer Abdallah
+Jake Aggarwal
+Narendra Ahuja 
+Yiannis Aloimonos
+P. Anandan
+Jens Arnspang
+Dana Ballard
+Ruzena Bajcsy 
+Ronen Basri
+Peter Belhumeur
+Serge Belongie
+Tom Binford
+Michael Black
+Andrew Blake
+Aaron Bobick
+Ruud Bolle
+Esmail Bonakdarian
+Terry Boult
+Kevin W. Bowyer
+J. Michael "Mike" Brady
+Chris Bregler
+Alberto Broggi 
+Chris Brown
+Wilhelm Burger
+J. Brian Burns
+Bernard Buxton
+Hilary Buxton
+Andrea Califano
+Ted Camus
+Octavia Camps
+Stefan Carlsson
+Rama Chellappa
+Luigi Cinque
+Roberto Cipolla
+Laurent Cohen
+Dave Coombs
+Ingemar J. Cox
+Yuntao Cui
+Kostas Daniilidis
+Larry Davis
+Paul Debevec
+Joachim Denzler
+Rachid Deriche
+Sven Dickinson
+Byron Dom
+Chitra Dorai
+Mark S. Drew
+Gregory Dudek
+Jim Duncan
+Charles Dyer
+Shimon Edelman
+Jan-Olof Eklundh
+James Elder
+Hany Farid 
+Olivier Faugeras
+Cornelia Fermuller
+Graham Finlayson
+Margaret Fleck
+David Fleet
+Pat Flynn
+Wolfgang Förstner
+David Forsyth 
+Claudia Fuchs
+Brian Funt
+Jonas Gårding
+Davi Geiger
+Dmitry Goldgof
+Gaile G. Gordon
+Gösta H. Granlund
+Eric Grimson
+Greg Hager
+Allen Hanson
+Robert "Bob" Haralick
+Richard Hartley
+Glenn Healey
+Martial Hebert
+David Heeger
+Martin Herman
+Ellen Hildreth
+Vaclav "Vasek" Hlavac
+Anthony Hoogs
+Radu Horaud
+Berthold Horn
+Joachim Hornegger
+Tom Huang
+Andres Huertas
+Dan Huttenlocher
+John Illingworth
+Katsushi Ikeuchi
+David Jacobs
+Anil K. Jain
+Allan Jepson
+Avi Kak
+Ioannis Kakadiaris
+Gerda Kamberova
+Takeo Kanade
+Sing Bing Kang
+Rangachar Kasturi
+Sang Kyun Kim
+Benjamin Kimia
+Jan Koenderink
+Peter Kovesi
+Rahda Krishnan
+David Kriegman
+Kyros Kutulakos
+Mike Langer
+Ales Leonardis
+Thomas Leung
+Tod Levitt
+Mengxiang Li
+Stan Z. Li
+Tony Lindeberg
+Jim Little
+David Lowe
+Quang-Tuan Luong
+Song De Ma
+Philip McLauchlan
+Alan Mackworth
+Brian Madden
+Jitendra Malik
+Roberto Manduchi
+Gerard Medioni
+Dimitris Metaxas
+Max Mintz
+Jun Miura
+Roger Mohr
+Rakesh Mohan
+Joe Mundy
+David Murray
+Hans-Hellmut Nagel
+Ram Navatia
+Shree Nayar
+Randal C. Nelson
+Keith Nishihara
+Alison Noble
+John Oliensis
+Clark Olson
+Robyn Owens
+Tomas Pajdla
+Sharath Pankanti
+Dietrich Paulus
+Prof. Alex Pentland
+Pietro Perona
+Dragutin Petkovic
+Rosalind Picard
+Nic Pillow
+Tomaso Poggio
+Jean Ponce
+Keith Price
+Peter Rander
+Rajesh Rao
+Ravi Rao
+James M. Rehg
+Ian Reid
+Isidore Rigoutso
+Ed Riseman
+Ehud Rivlin
+Luc Robert
+Bernice Rogowitz
+Azriel Rosenfeld
+Charlie Rothwell
+William Rucklidge
+Giulio Sandini
+Sudeep Sarkar
+Eric Saund
+Harpreet Sawhney
+Brent Seales
+Steve Shafer
+Linda Shapiro
+Amnon Shashua
+Yoshiaki Shirai
+Eero Simoncelli (Penn), Eero Simoncelli (NYU) 
+Stefano Soatto
+Franc Solina
+Louise Stark
+Lawrence Staib
+Gideon P. Stein
+Dan Stevenson
+Chuck Stewart
+George Stockman
+Tomas Svoboda
+Michael Swain
+Daniel Swets
+Richard Szeliski
+Hemant Tagare
+Kay Talmi
+Tieniu Tan
+Gabriel Taubin
+Camillo "CJ" Taylor
+Demetri Terzopoulos
+Bill Thompson
+Massimo Tistarelli
+Carlo Tomasi
+Phil Torr
+Bill Triggs
+Roger Tsai
+John Tsotsos
+Shimon Ullman
+Luc Van Gool
+Thierry Viéville
+Paul Viola
+Ellen Walker
+Joe Weber 
+Daphna Weinshall
+John Weng
+Michael Werman
+Andy Wildenberg
+Lance Williams
+Bob Woodham
+Ramin Zabih
+Mourad Zerroug
+Zhengyou Zhang
+Andrew Zisserman
+Steve Zucker

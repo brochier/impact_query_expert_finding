@@ -1,0 +1,30 @@
+Alessandro Sperduti
+Bart Baesens
+Bart De Moor
+Cecilio Angulo
+Chih-Jen Lin
+Chris Burges
+Christopher J. C. Burges
+Daphne Koller
+Dennis DeCoste
+Edward Y. Chang
+Gert Cauwenberghs
+Glenn Fung
+Guido Dedene
+Ioannis Tsochantaridis
+James T. Kwok
+Jason Weston
+Johan A. K. Suykens
+John Shawe-Taylor
+Joos Vandewalle
+Junbin Gao
+Massimiliano Pontil
+Nello Cristianini
+Olivier Chapelle
+Olvi L. Mangasarian
+Sathiya Keerthi
+Stijn Viaene
+Thomas Hofmann
+Thorsten Joachims
+Tony Van GestelVladimir Vapnik
+Steve R. Gunn

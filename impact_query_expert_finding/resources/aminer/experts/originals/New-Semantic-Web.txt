@@ -1,0 +1,44 @@
+Alexander Maedche
+Alon Y. Halevy
+Amit P. Sheth
+Anhai Doan
+Anupam Joshi
+Bijan Parsia
+Carole A. Goble
+Christoph Bussler
+Deborah L. Mcguinness
+Dieter Fensel
+Dimitris Plexousakis
+Frank Van Harmelen
+Ian Horrocks
+James A. Hendler
+Jeff Heflin
+Jin Song Dong
+Katia P. Sycara
+Li Ding
+Massimo Paolucci
+Ora Lassila
+Peter F. Patel-Schneider
+Raphael Volz
+Rong Pan
+Rudi Studer
+Sheila A. McIlraith
+Siegfried Handschuh
+Stefan Decker
+Steffen Staab
+Terry R. Payne
+Timothy W. Finin
+Vassilis Christophides
+Wolfgang NejdlYork Sure
+Asuncion Gomez-Perez
+Natalya Fridman Noy
+Hamish Cunningham
+Paolo Traverso
+Daniel Oberle
+Mark A. Musen
+Axel Polleres
+Jeffrey M. Bradshaw
+Robert Tolksdorf
+Matthias Klusch
+Biplav Srivastava
+Michael Erdmann

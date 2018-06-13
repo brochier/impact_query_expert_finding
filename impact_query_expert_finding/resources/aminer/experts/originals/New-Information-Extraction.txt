@@ -1,0 +1,19 @@
+Andrew McCallum
+Christopher D. Manning
+Daniel S. Weld
+Dayne Freitag
+Ellen Riloff
+Eugene Agichtein
+Fabio Ciravegna
+Jude W. Shavlik
+Luis Gravano
+Mark CravenMary Elaine Califf
+Nicholas Kushmerick
+Oren Etzioni
+Ralph Grishman
+Raymond J. Mooney
+Rohini K. Srihari
+Ronen Feldman
+Stephen Soderland
+Sunita Sarawagi
+Yorick Wilks

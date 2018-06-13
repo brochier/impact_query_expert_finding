@@ -1,0 +1,3 @@
+recursive-include impact_query_expert_finding/resources *
+include impact_query_expert_finding/conf.yml
+include README.rst

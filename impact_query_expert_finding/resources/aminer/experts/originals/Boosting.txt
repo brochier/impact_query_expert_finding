@@ -1,0 +1,57 @@
+Abraham Wyner
+Aleksandar Lazarevic
+Alexey Tsymbal
+Baihua Xiao
+Bob Williamson
+Bogdan Gabrys
+Christoph M. Friedrich
+Dale Schuurmans
+David Helmbold
+Dmitriy Panchenko
+Dmitry Pavlov
+Edgar Acuna
+Fabrizio Sebastiani
+Greg Ridgeway
+Gunnar R?tsch
+Guy Lebanon
+G¨¹nther Eibl
+Harris Drucker
+J. Ross Quinlan
+Jerome Friedman
+John Lafferty
+Jonathan Baxter
+Junbin Gao
+K.A. Almashouq
+Klaus-Robert M¨¹ller
+Kristin P. Bennett
+Leo Breiman
+Llew Mason
+Manfred Warmuth
+Marcus Frean
+Massimiliano Pontil
+Nigel Duffy
+Paul Viola
+Pedro J. Moreno
+Peter Gr¨¹nwald
+Peter L. Bartlett
+QiaoYU
+Ralf Herbrich
+Ran El-Yaniv
+Richard Zemel
+Robert Schapire
+Ron Meir
+Sebastian Mika
+Shie Mannor
+Shuiwang Ji
+Takashi Onoda
+Thomas G. Dietterich
+Tong Zhang
+Vladimir Koltchinskii
+Volker Tresp
+Wenxin Jiang
+Yoav Freund
+Yoram Singer
+Yoshua Bengio
+Yves Grandvalet
+Zeyu LI
+Zhi-Hua Zhou
