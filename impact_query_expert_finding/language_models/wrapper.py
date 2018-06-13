@@ -189,35 +189,6 @@ class LanguageModel:
                 os.path.join(input_dir, "corpus_lsa_index"))
             self.corpus_lsa_index.output_prefix = os.path.join(input_dir, "corpus_lsa_index")
             self.corpus_lsa_index.check_moved()
-        elif self.type == "word2vec_mean":
-            self.w2v = gensim.models.Word2Vec.load(os.path.join(input_dir, "word2vec"))
-            self.corpus_w2v_index = gensim.similarities.docsim.MatrixSimilarity.load(
-                os.path.join(input_dir, "corpus_word2vec_mean_index"))
-            self.corpus_w2v_index.output_prefix = os.path.join(input_dir, "corpus_word2vec_mean_index")
-            self.corpus_w2v_index.check_moved()
-        elif self.type == "word2vec_soft_tf":
-            self.dictionary = gensim.corpora.Dictionary.load(
-                os.path.join(input_dir, "dictionary"))
-            self.corpus_word2vec_soft_tf_index = gensim.similarities.docsim.SoftCosineSimilarity.load(
-                os.path.join(input_dir, "corpus_word2vec_soft_tf_index"))
-            self.corpus_word2vec_soft_tf_index.output_prefix = os.path.join(input_dir, "corpus_word2vec_soft_tf_index")
-        elif self.type == "word2vec_soft_tfidf":
-            self.dictionary = gensim.corpora.Dictionary.load(
-                os.path.join(input_dir, "dictionary"))
-            self.corpus_word2vec_soft_tfidf_index = gensim.similarities.docsim.SoftCosineSimilarity.load(
-                os.path.join(input_dir, "corpus_word2vec_soft_tfidf_index"))
-            self.corpus_word2vec_soft_tfidf_index.output_prefix = os.path.join(input_dir, "corpus_word2vec_soft_tfidf_index")
-        elif self.type == "word2vec_tfidf":
-            self.w2v = gensim.models.Word2Vec.load(os.path.join(input_dir, "word2vec"))
-            self.corpus_w2v_index = gensim.similarities.docsim.MatrixSimilarity.load(
-                os.path.join(input_dir, "corpus_word2vec_mean_index"))
-            self.corpus_w2v_index.output_prefix = os.path.join(input_dir, "corpus_word2vec_mean_index")
-            self.corpus_w2v_index.check_moved()
-            self.corpus_tfidf = gensim.corpora.MmCorpus(
-                os.path.join(input_dir, "corpus_tfidf"))
-            self.tfidf = gensim.models.TfidfModel.load(os.path.join(input_dir, "tfidf"))
-            self.dictionary = gensim.corpora.Dictionary.load(
-                os.path.join(input_dir, "dictionary"))
         else:
             raise ValueError(
                 'model type "' + self.type + '" is not an option. Available names are ["tf, tfidf, lsa, tfidf_lsa, word2vec_mean, word2vec_tfidf"].')
@@ -241,30 +212,6 @@ class LanguageModel:
             v2 = np.array(self.corpus_lsa_index[self.lsa[
                 self.tfidf[self.dictionary.doc2bow(tokenize(input_text, self.input_dir, grams=self.grams))]]])
             return v1 + v2
-        elif self.type == "word2vec_mean":
-            vectors = [self.w2v.wv[w] for w in
-                       [t for t in tokenize(input_text, self.input_dir, grams=self.grams) if t in self.w2v.wv.vocab]]
-            if len(vectors) > 0:
-                return np.array(self.corpus_w2v_index[np.mean(vectors, axis=0)])
-            else:
-                return self.corpus_w2v_index[np.zeros(self.w2v.vector_size)]
-        elif self.type == "word2vec_soft_tf":
-            return np.array(
-                self.corpus_word2vec_soft_tf_index[self.dictionary.doc2bow(tokenize(input_text, self.input_dir, grams=self.grams))])
-        elif self.type == "word2vec_soft_tfidf":
-            return np.array(
-                self.corpus_word2vec_soft_tfidf_index[
-                    self.dictionary.doc2bow(tokenize(input_text, self.input_dir, grams=self.grams))])
-        elif self.type == "word2vec_tfidf":
-            tokenized_input = [t for t in tokenize(input_text, self.input_dir, grams=self.grams) if
-                               t in self.w2v.wv.vocab and t in self.dictionary.token2id]
-            tfidf_values = dict(self.tfidf[self.dictionary.doc2bow(tokenized_input)])
-            tfidf_factors = [tfidf_values[v] for v in [self.dictionary.doc2bow([w])[0][0] for w in tokenized_input]]
-            vectors = [self.w2v.wv[w] * tfidf_factors[i] for i, w in enumerate(tokenized_input)]
-            if len(vectors) > 0:
-                return np.array(self.corpus_w2v_index[np.mean(vectors, axis=0)])
-            else:
-                return self.corpus_w2v_index[np.zeros(self.w2v.vector_size)]
         else:
             raise ValueError(
                 'model type "' + self.type + '" is not an option. Available names are ["tf, tfidf, lsa, lda, word2vec_mean"].')
@@ -304,10 +251,6 @@ class LanguageModel:
                 for t in v:
                     mat[i,t[0]] = t[1]
             return mat
-        elif self.type == "lda":
-            return np.array( [ self.lda[self.dictionary.doc2bow(tokenize(input_text, self.input_dir, grams = self.grams))] for input_text in docs ] )
-        elif self.type == "word2vec_mean" or self.type == "word2vec_tfidf":
-            print(self.type, "not implemented in vectorizer !")
         else:
             raise ValueError(
                 'model type "' + self.type + '" is not an option. Available names are ["tf, tfidf, lsa, lda, word2vec_mean"].')
