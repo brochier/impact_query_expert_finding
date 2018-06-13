@@ -19,18 +19,18 @@ If you work with conda, you can create a dedicated environment. Make sure you ha
 
 **Download the datasets**:
 
-'''
-    import impact_query_expert_finding.main.fetch_data
-    import impact_query_expert_finding.data.io
-    import os
+```python
+import impact_query_expert_finding.main.fetch_data
+import impact_query_expert_finding.data.io
+import os
 
-    current_folder = os.path.dirname(os.path.abspath(__file__))
-    output_dir = os.path.join(current_folder,'output/','data/')
-    dump_dir = os.path.join(current_folder,'output/', 'data_info')
+current_folder = os.path.dirname(os.path.abspath(__file__))
+output_dir = os.path.join(current_folder,'output/','data/')
+dump_dir = os.path.join(current_folder,'output/', 'data_info')
 
-    parameters = {
-        'output_dir': output_dir,  # directory where the data will be stored
-        'dump_dir': dump_dir       # dump directory where statistics will be produced
-    }
-    impact_query_expert_finding.main.fetch_data.run(parameters)
-'''
+parameters = {
+    'output_dir': output_dir,  # directory where the data will be stored
+    'dump_dir': dump_dir       # dump directory where statistics will be produced
+}
+impact_query_expert_finding.main.fetch_data.run(parameters)
+```
