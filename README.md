@@ -96,7 +96,6 @@ for qt in query_types:
         for a in algorithms:
             for dr in documents_representations:
                 output_dir = os.path.join(current_folder,'output/', "xp_"+qt+"_"+dv+"_"+dataset_type+"_"+a+"_"+dr)
-                print("Testing p@noptic model...")
                 parameters = {
                     'output_dir': output_dir,
                     'input_dir': input_dir,
