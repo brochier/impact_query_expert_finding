@@ -6,7 +6,7 @@ You can install the code as a python package and run the experiments shown in th
 How to reproduce the results:
 -----------------------------
 
-If you work with conda, you can create a dedicated environment. Make sure you have install python 3.6 installed (other version of python 3 might work as well but were not tested).  
+If you work with conda, you can create a dedicated environment. Make sure you have python 3.6 installed (other version of python 3 might work as well but were not tested).  
 
 **Install:**
 
@@ -19,7 +19,7 @@ If you work with conda, you can create a dedicated environment. Make sure you ha
 
 **Fetch the data**:
 
-Run this python script in a dedicated folder. Data will be fetched in the *data* directory and some statistics will be reported in the *data_info* directory. Two datasets are fetched (V1 and V2). A cleaned version using our preprocessing described in the paper is generated in the directory *dataset_cleaned* and a small version is generated in the *dataset_associations*. The name *associations* is used because the small dataset is generated using random walks starting from the experts social associations. 
+Run this python script in a dedicated folder. Data will be fetched in the *data* directory and some statistics will be reported in the *data_info* directory. Two datasets are fetched (V1 and V2). A cleaned version using our preprocessing described in the paper is generated in the directory *dataset_cleaned* and a small version is generated in the *dataset_associations*. The name *associations* is used because the small dataset is generated using random walks starting from the ground truth expert-candidates social associations. 
 
 
 ```python
