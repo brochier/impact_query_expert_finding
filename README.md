@@ -1,7 +1,7 @@
-Python code of the paper "On the Impact of the Query Set on the Evaluation of Expert Finding Systems" presented in the workshop BIRNDL hosted at SIGIR 2018. 
+Python code of the paper "Impact of the Query Set on the Evaluation of Expert Finding Systems" presented in the workshop BIRNDL hosted at SIGIR 2018. 
 ************************************************************************************************************************************************************
 
-You can install the code as a python package and run the experiments shown in the paper "On the Impact of the Query Set on the Evaluation of Expert Finding Systems" presented in the 3rd Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL 2018) hosted at SIGIR 2018. 
+You can install the code as a python package and run the experiments shown in the paper "Impact of the Query Set on the Evaluation of Expert Finding Systems" presented in the 3rd Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL 2018) hosted at SIGIR 2018. 
 
 How to reproduce the results:
 -----------------------------
