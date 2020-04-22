@@ -40,7 +40,7 @@ def load_papers(infname):
                     })
     return papers
 
-def load_experts(foldername, version = "V1"):
+def load_experts(foldername, version = "V2"):
     print("Loading experts from '", foldername, "'")
     list_of_files = {
         "boosting": "Boosting.txt",
